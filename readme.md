@@ -10,7 +10,7 @@
 
 ```bash
 # Клонируйте проект
-git clone <repository-url>
+git clone https://github.com/StarveRoK/AveTech.git
 cd phone-address-service
 
 # Запустите сервисы
